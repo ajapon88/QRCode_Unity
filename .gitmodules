@@ -1,0 +1,3 @@
+[submodule "ZXing.Net"]
+	path = ZXing.Net
+	url = https://github.com/micjahn/ZXing.Net
